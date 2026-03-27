@@ -2,7 +2,7 @@
 
 This repository contains all tasks completed during my Cybersecurity Internship at Future Interns.
 
-## Tasks Completed
+## Tasks Completed ---
 
 ### Task 1 - Vulnerability Assessment Report
 - Tool Used: OWASP ZAP
