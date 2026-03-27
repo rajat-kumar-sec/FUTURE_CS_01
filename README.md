@@ -11,4 +11,4 @@ This repository contains all tasks completed during my Cybersecurity Internship 
 - Focus: Security Headers & Misconfiguration
 
 Report File:
-Future_Interns_Task1_Vulnerability_Assessment_Report.pdf
+Future_Interns_Task1_Vulnerability_Assessment_Report.pdf.
