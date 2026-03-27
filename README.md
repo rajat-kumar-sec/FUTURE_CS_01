@@ -4,7 +4,7 @@ This repository contains all tasks completed during my Cybersecurity Internship 
 
 ## Tasks Completed ---
 
-### Task 1 - Vulnerability Assessment Report
+### Task 1 - Vulnerability Assessment Report:
 - Tool Used: OWASP ZAP
 - Target: testphp.vulnweb.com
 - Findings: 9 alerts (Medium, Low, Informational)
